@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Ishtiaq Rashid</h1>
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning advance flutter
+- 🌱 I’m currently learning advanced flutter
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: ishtiaqrashid299@gmail.com
 - 😄 My website: https://dev-ishtiaq-portfolio.pantheonsite.io
@@ -30,4 +30,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [developertouch](https://github.com/developertouch)
