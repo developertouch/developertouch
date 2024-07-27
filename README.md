@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning advanced flutter
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: ishtiaqrashid299@gmail.com
-- 😄 My website: https://dev-ishtiaq-portfolio.pantheonsite.io
+- 😄 My website: https://developertouch.github.io/my_portfolio_website
 
   
 ### Connect with me:
