@@ -3,7 +3,10 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning advanced flutter
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: ishtiaqrashid299@gmail.com
+- 📫 How to reach me: ishtiaqrashid299@gmail.com 
+- 📫 How to reach me: developertouch1@gmail.com
+- 
+- 
 - 😄 My website: https://developertouch.github.io/Ishtiaq-Rashid
 
   
